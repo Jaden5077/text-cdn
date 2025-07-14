@@ -440,12 +440,13 @@
 默认: "mặc nhận"
 取消: "thủ tiêu"
 订阅: "đăng ký"
+搜索: "sưu tìm"
 
 紫色: "tử sắc"
 
 #AI-ML-DL
 自然语言处理: "tự nhiên ngôn ngữ xử lý"
-检索增强生成: "kiểm tác tăng cường sinh thành"
+检索增强生成: "kiểm tìm tăng cường sinh thành"
 神经网络: "thần kinh võng lạc (NN)"
 深度学习: "thâm độ học tập (DL)"
 强化学习: "cường hóa học tập (RL)"
@@ -471,7 +472,7 @@
 全参: "toàn tham"
 调优: "điều ưu (tune)"
 向量: "hướng lượng (vector)"
-索引: "tác dẫn (index)"
+索引: "tìm dẫn (index)"
 脚本: "cước bản (script)"
 多模: "đa mô (multimodal)"
 运算: "vận toán"

@@ -86,6 +86,7 @@
 萨尔浒: "Sarhū"
 战斗机: "chiến đấu cơ"
 本科生: "bản khoa sinh"
+博士生: "bác sĩ sinh"
 同价位: "đồng giá vị"
 小提琴: "tiểu violin"
 三折叠: "tam chiết điệp"
@@ -109,6 +110,8 @@
 不说了: "không nói rồi"
 怎么了: "thế nào rồi"
 走了: "đi rồi"
+博士: "bác sĩ"
+医生: "y sinh"
 国风: "quốc phong"
 国产: "quốc sản"
 国际: "quốc tế"
@@ -554,8 +557,12 @@
 架空: "giá không"
 同学: "đồng học"
 学术: "học thuật"
+确实: "xác thực"
+实在: "thực tại"
+证实: "chứng thực"
+问题: "vấn đề"
 
-# Từ khó dịch
+# Từ giữ nguyên
 泄洪: "tiết hồng"
 馄饨: "hồn đồn"
 大于: "đại vu"
@@ -566,7 +573,6 @@
 旧情: "cựu tình"
 开学: "khai học"
 告诉: "cáo tố"
-舒服: "thư phục"
 
 紫色: "tử sắc"
 
@@ -579,11 +585,11 @@
 华南智: "Huananzhi"
 交大: "giao đại"
 复旦: "Phục Đán"
-#
+
 火影: "hỏa ảnh"
 木叶: "mộc diệp"
 卡卡西: "Kakashi"
-#
+
 小埋: "tiểu mai"
 
 # Liên quan đến ngữ pháp
@@ -602,8 +608,10 @@
 吗的: "m"
 多耗: "多|===|耗"
 的吗: "đúng không"
-
+还是: "vẫn là"
 我能: "ta có thể"
+舒服: "thư phục"
+
 # 之: "chi"
 的: "d|--|e"
 # 中: "trung"# 在: "tại"# 种: "chủng"# 正: "chính"# 更: "càng"# 全: "toàn"# 反: "phản"# 光: "quang"
@@ -638,6 +646,7 @@
 胶: "cao"
 更: "càng"
 爽: "sảng"
+吧: "ba"
 
 家丁: "gia đinh"
 补丁: "patch"

@@ -365,7 +365,6 @@
 意思: "ý tứ"
 中央: "trung ương"
 上天: "thượng thiên"
-泄洪: "tiết hồng"
 玩转: "ngoạn chuyển"
 总裁: "tổng tài"
 少年: "thiếu niên"
@@ -471,7 +470,6 @@
 高一: "cao nhất"
 高二: "cao nhị"
 高三: "cao tam"
-馄饨: "hồn đồn"
 云吞: "vân thôn"
 晚上: "vãn thượng"
 点名: "điểm danh"
@@ -495,14 +493,9 @@
 取消: "thủ tiêu"
 订阅: "đăng ký"
 搜索: "sưu tìm"
-大于: "đại vu"
 国外: "quốc ngoại"
 老婆: "lão bà"
 家乡: "gia hương"
-高档: "cao đương"
-低档: "đê đương"
-中档: "trung đương"
-档期: "đương kỳ"
 好玩: "hảo ngoạn"
 新奇: "tân kỳ"
 基本: "cơ bản"
@@ -546,7 +539,6 @@
 大会: "đại hội"
 风险: "phong hiểm"
 失败: "thất bại"
-旧情: "cựu tình"
 乱世: "loạn thế"
 登陆: "đăng lục"
 借了: "đã mượn"
@@ -562,10 +554,23 @@
 架空: "giá không"
 同学: "đồng học"
 学术: "học thuật"
+
+# Từ khó dịch
+泄洪: "tiết hồng"
+馄饨: "hồn đồn"
+大于: "đại vu"
+高档: "cao đương"
+低档: "đê đương"
+中档: "trung đương"
+档期: "đương kỳ"
+旧情: "cựu tình"
 开学: "khai học"
+告诉: "cáo tố"
+舒服: "thư phục"
 
 紫色: "tử sắc"
 
+# Danh từ riêng
 华为: "Huawei"
 微星: "Msi"
 华硕: "Asus"
@@ -574,13 +579,14 @@
 华南智: "Huananzhi"
 交大: "giao đại"
 复旦: "Phục Đán"
-
+#
 火影: "hỏa ảnh"
 木叶: "mộc diệp"
 卡卡西: "Kakashi"
-
+#
 小埋: "tiểu mai"
 
+# Liên quan đến ngữ pháp
 是个: "là cái"
 夺少: "多少"
 地球: "地球|===|"
@@ -631,6 +637,7 @@
 正: "政"
 胶: "cao"
 更: "càng"
+爽: "sảng"
 
 家丁: "gia đinh"
 补丁: "patch"
